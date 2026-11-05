@@ -11,7 +11,8 @@ verification, and two read-only reporting templates. Version 3.1.0 adds the
 recent-publication benchmark and restores follow-up review. It also adds
 revision-stage package checks and aligns the status vocabulary and templates.
 Version 3.1.1 clarifies conditional declaration counts and missing required
-files. The public release is maintained at
+files. Version 3.1.2 makes full-audit intake and user confirmation explicit.
+The public release is maintained at
 [Miiiikasa/academic-manuscript-audit](https://github.com/Miiiikasa/academic-manuscript-audit).
 
 The previous protocol acknowledged conceptual influences from the following.

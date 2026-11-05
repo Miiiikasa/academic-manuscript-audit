@@ -6,9 +6,9 @@ Scan the specified folder or file list read-only. Show the filenames, count,
 provisional roles and versions. Separate candidate count from confirmed count,
 and mark incomplete scans. Inspect named subfolders when the user includes
 them. Exclude backups, Word lock files, old versions and unrelated material.
-Confirm the intended set when necessary. Ask about quantity only if the
-directory cannot be fully scanned or the scan conflicts with the user's
-description. Record version facts and stable fingerprints where useful.
+In a full audit, follow the [intake gate](../SKILL.md#full-audit-intake) to
+obtain user confirmation when the intended set is unclear. Record version
+facts and stable fingerprints where useful.
 
 | File or field | Role | Version / extension / size | Included or excluded | Required condition and source | Evidence / status |
 |---|---|---|---|---|---|

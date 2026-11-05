@@ -2,17 +2,13 @@
 
 ## Ask for missing intake information
 
-For a full audit, obtain the exact journal, article type, whether a local guide
-has been downloaded and its path if applicable, and the package location.
-Ask the missing questions together. Scan the supplied folder read-only and
-confirm the intended files from the inventory in
-[submission package](submission-package.md). An explicit confirmed file list
-or unambiguous instruction to include the enumerated files satisfies this
-step. Show scanned count and scope. Ask for quantity details only if the
-directory is partly inaccessible or the scan conflicts with the user's
-description. For a targeted audit, use only the intake needed for the
-requested checks. The optional sample offer follows the
-[benchmark protocol](recent-publications-benchmark.md).
+Follow the [full-audit intake gate](../SKILL.md#full-audit-intake) for
+user-facing questions and confirmation. A user-confirmed file list or an
+unambiguous instruction to include the enumerated files satisfies package
+confirmation. If the user has no local guide or asks you to use the official
+guide, look it up directly. If the user has a local guide and its path is
+missing, ask for the path. An access limit discovered after intake is an
+evidence limitation. Apply the status rules below.
 
 Resolve journal identity using official title and, when necessary, website or
 ISSN. Determine the article category used by the journal. Record initial

@@ -65,10 +65,13 @@ action and does not substitute for a result.
 | Directory access is partial and absence cannot be established | 无法检查 for the inaccessible inventory. Do not infer a missing file |
 | The applicable rules do not require this file for the journal, article type and stage | 不适用 for the required-file check. Cite the applicable condition or exception |
 
-Report the confirmed subset without waiting for files to be prepared.
-Label both reports provisional or scoped, list material outside that scope,
-and record what would close each gap. State whether the verified scope
-contains a blocker, has open conditions, or is insufficient to judge.
+Once the audit scope is confirmed, report on the available files without
+waiting for missing required files to be prepared. If intake itself is
+unresolved, follow the [intake gate](../SKILL.md#full-audit-intake) before
+issuing a partial report. Label both reports provisional or scoped, list material
+outside that scope, and record what would close each gap. State whether the
+verified scope contains a blocker, has open conditions, or is insufficient to
+judge.
 Avoid a full readiness conclusion from a partial audit.
 
 ## Issue severity and content

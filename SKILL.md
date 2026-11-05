@@ -8,7 +8,7 @@ description: >-
   audits, revision packages and optional recent-publication benchmarks.
 metadata:
   category: academic-writing
-  version: "3.1.1"
+  version: "3.1.2"
   last_updated: "2026-11-05"
   license: CC-BY-NC-SA-4.0
 ---
@@ -45,25 +45,34 @@ rewritten passages and revisions outside the audit.
 
 ## Full-audit intake
 
-First collect the target journal's full title, article type, author-guide
-availability and local path if downloaded, and the submission folder or
-explicit file set. Resolve ambiguous journal identity with an official URL or
-ISSN when needed. Ask only for missing information, preferably in one short
-message. If the user says no guide was downloaded, find the current official
-guide. If there is a local guide, read it and compare it with the current
-official version where possible.
+**Ask the user and wait when required intake is unresolved.** Before starting
+the full audit, establish the target journal, article type, whether the user
+has a local author guide (and its path if applicable), and which files and
+versions belong to this submission. Ask about stage or review model when it
+affects applicability and cannot be resolved from available evidence. Reuse
+answers already given for this submission. See
+[journal intake](references/journal-requirements.md) for evidence and access.
 
-Scan the supplied location and show filenames, count and provisional roles.
-Confirm the intended set unless it was already confirmed. Ask separately about
-quantity only if access is incomplete or the scan conflicts with the user's
-description. Ask about stage or review model when needed for applicability.
-While scope is incomplete, continue with the confirmed subset and label any
-reports provisional. Conclusions about a full package require a confirmed scope.
+Scan a supplied folder read-only. Show the candidate filenames, count and
+provisional roles, then ask which files to include unless the user has already
+clearly identified the submission set. A directory listing alone is not
+confirmation. Ask separately about quantity only if the scan is incomplete
+or conflicts with the user's description.
 
-Unless already answered, offer the optional comparison using around ten recent
-PDFs from the target journal and same article type. Any sample size is
-acceptable. Continue the submission audit if the user declines, does not
-answer, or supplies no sample.
+Send the missing questions as a user-visible message, grouped when practical.
+Use the host's question tool when available. If the tool is unavailable, ask
+in a chat reply and end that turn. Wait for the user's answer before running
+checks that depend on it. While waiting, a read-only inventory or lookup of
+public journal instructions may help prepare the audit. Do not infer answers
+from filenames or treat silence as confirmation. Produce a partial audit
+before intake is resolved only if the user requests one. Limit it to confirmed
+inputs, label it provisional and withhold a whole-package conclusion. Once
+the scope is confirmed, proceed even if required files are known to be missing.
+
+Offer the optional [recent-paper comparison](references/recent-publications-benchmark.md)
+once during intake unless the user already answered. Ask alongside required
+questions when possible. An unanswered benchmark offer never delays the audit.
+Mode B asks only for information needed for the requested checks.
 
 ## Review workflow
 
